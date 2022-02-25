@@ -1,0 +1,12 @@
+{
+  "name": "falcon-punch-deno",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "deno run index.ts"
+  },
+  "keywords": [],
+  "author": "k-logic24",
+  "license": "ISC"
+}
